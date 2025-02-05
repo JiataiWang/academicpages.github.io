@@ -13,7 +13,7 @@ title                    : "Dr. Wang"
 title_separator          : "-"
 name                     : &name "Jiatai Wang"
 description              : &description "personal description"
-url                      : https://JiataiWang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://jiataiwang.github.io/academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiataiWang/academicpages.github.io"
 
