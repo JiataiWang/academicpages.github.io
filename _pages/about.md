@@ -11,7 +11,7 @@ Hello! I'm Jiatai Wang and currently pursuing the Ph.D. degree in computer scien
 
 I am very fortunate to be advised by Senior Researcher Zhiwei Xu from Haihe Lab of ITAI and Prof. Tao Li from Nankai University.
 
-If you would like to work with me on cool research on LLMs, welcome to email me.
+If you would like to work with me on cool research on Agentic RAG, welcome to email me.
 
 I have a deep belief that AGI will come in my life.
 
