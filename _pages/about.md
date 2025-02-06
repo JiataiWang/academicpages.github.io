@@ -15,6 +15,17 @@ If you would like to work with me on cool research on LLMs, welcome to email me.
 
 I have a deep belief that AGI will come in my life.
 
+Publications
+======
+You can find my publications at my Google Scholar or ResearchGate.
+
+Skills
+======
+- Multi-view learning
+- Large Language Model
+  - RAG
+  - LLM for Agents
+
 Life Interest
 ======
-Video game, Gym, Karaoke, BasketBall, Travel, Cooking.
+Video games, gym, karaoke, basketball, travel, and cooking.
