@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com" # Username
+  linkedin         : "https://www.linkedin.com" 
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,12 +64,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/JiataiWang0996" # Username for X / Twitter
+  twitter          : "https://x.com/JiataiWang0996" 
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/@JiataiWang0996" # Username
+  youtube          : "https://www.youtube.com/@JiataiWang0996" 
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
