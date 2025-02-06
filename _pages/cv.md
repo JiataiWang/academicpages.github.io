@@ -22,7 +22,7 @@ Service
 Work experience
 ======
 * 12/2023-Now: Internship at Haihe Lab of ITAI, Tianjin.
-  * Medical Image Quality Control with RAG: Designed and deployed a RAG pipeline on 910, enabling multimodal retrieval (CLIP + GLM-Vision) for medical image quality control. Implemented data processing, RAG optimization, and case demonstrations to assist in automated quality assessment and recommendations.
+  * Medical Image Quality Control with RAG: Designed and deployed a RAG pipeline on Ascend 910, enabling multimodal retrieval (CLIP + GLM-Vision) for medical image quality control. Implemented data processing, RAG optimization, and case demonstrations to assist in automated quality assessment and recommendations.
   * AI-Powered Vehicle Damage Assessment: Developed an intelligent vehicle damage assessment system for component recognition and cost estimation. Designed the solution, processed training data, optimized the damage prediction algorithm, and enhanced de-identification software, improving accuracy and deployment efficiency.
 
 * 06/2023: Internship at Mininglamp Technology, Beijing.
