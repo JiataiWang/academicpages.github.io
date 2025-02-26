@@ -35,7 +35,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7373-7706"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Jiatai-Wang-4?ev=hdr_xprf"
+  researchgate     : #"https://www.researchgate.net/profile/Jiatai-Wang-4?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
