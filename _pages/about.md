@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Jiatai Wang and currently pursuing the Ph.D. degree in computer science with the College of Computer Science, [Nankai University](https://www.nankai.edu.cn). My research interest includes AI agents.
+Hello! I'm Jiatai Wang and currently pursuing the Ph.D. degree in computer science with the College of Computer Science, [Nankai University](https://www.nankai.edu.cn). My research interest includes AI Safety and Alignment.
+
 
 I am very fortunate to be advised by Senior Researcher Zhiwei Xu from Haihe Lab of ITAI and Prof. Tao Li from Nankai University.
 
@@ -21,9 +22,9 @@ You can find my publications at my Google Scholar.
 
 Skills
 ======
-- Multi-view representation learning
 - Large language model
-  - LLM for Agents
+  - Catastrophic risks in autonomous LLM agents
+  - Representation learning and modal alignment
 
 Life Interest
 ======
