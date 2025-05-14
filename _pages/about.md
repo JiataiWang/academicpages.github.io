@@ -12,7 +12,7 @@ Hello! I'm Jiatai Wang and currently pursuing the Ph.D. degree in computer scien
 
 I am very fortunate to be advised by Senior Researcher Zhiwei Xu from Haihe Lab of ITAI and Prof. Tao Li from Nankai University.
 
-If you would like to work with me on cool research on LLM Agent, welcome to email me.
+If you would like to work with me on cool research on AI Safety, Knowledge Update and Artificial Intelligence, welcome to email me.
 
 I have a deep belief that AGI will come in my life.
 
@@ -23,8 +23,8 @@ You can find my publications at my Google Scholar.
 Skills
 ======
 - Large language model
-  - Catastrophic risks in autonomous LLM agents
   - Representation learning and modal alignment
+  - Knowledge Edit
 
 Life Interest
 ======
