@@ -24,7 +24,8 @@ Skills
 ======
 - Large language model
   - Representation learning and modal alignment
-  - Knowledge Edit
+  - Knowledge Update
+  - Mitigating knowledge conflicts
 
 Life Interest
 ======
